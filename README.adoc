@@ -1,6 +1,9 @@
 = ADOC PROBLEM
 
 
-https://raw.githubusercontent.com/aerogear/mobile-docs/master/modules/ROOT/pages/getting-started-configuring.adoc
+. look at https://raw.githubusercontent.com/finp/test-adoc/master/modules/ROOT/pages/getting-started-configuring.adoc
 shows how this file should look,
-but 
+
+. antora local-site.yml
+
+. run /bin/local-build.sh
